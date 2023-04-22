@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Gabi, seja bem vindo(a)! 👋
 
 - 🎓 Bacharel em Ciências Contábeis/ MBA em Controladoria e Auditoria
-- 👩‍💼 Atualmente trabalho como analista contábil
+- 👩‍💼 Trabalho como analista contábil
 - 📚 Atualmente estou estudando **HTML e CSS** e tenho o objetivo de transitar de carreira e me tornar desenvolvedora de sotware.
 - 📩 Contate-me no e-mail: gabrielle.olsilva@gmail.com
 - 😄 Pronouns ela/dela.
