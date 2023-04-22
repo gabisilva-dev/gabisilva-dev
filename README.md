@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Gabi, seja bem vindo(a)! 👋
 
-- 🔭 Atualmente trabalho com Contabilidade.
+- 🔭 Atualmente trabalho como analista contábil.
 - 🌱 Estou estudando HTML e CSS.
 - 📩 Contate-me no e-mail: gabrielle.olsilva@gmail.com
 - 😄 Pronouns ela/dela.
