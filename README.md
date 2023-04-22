@@ -5,6 +5,13 @@
 - 📩 Contate-me no e-mail: gabrielle.olsilva@gmail.com
 - 😄 Pronouns ela/dela.
 
+<div>
+  <a href="https://github.com/gabisilva-dev">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabisilva-dev&show_icons=true&theme=radical">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabisilva-dev&layout=radical&show_icons=true&theme=synthwave"/>">
+  
+##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
